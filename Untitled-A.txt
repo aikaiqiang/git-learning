@@ -1,1 +1,2 @@
 line1：develop new line and merge feature b
+line2: feature c add new line
